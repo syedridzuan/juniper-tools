@@ -1,0 +1,10 @@
+#configuration file
+
+hosts:
+   - hostname: 192.168.0.1
+     username: user01
+     password: pass01
+
+   - hostname: pe01
+     username: user02
+     password: pass02
